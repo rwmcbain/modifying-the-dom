@@ -1,0 +1,9 @@
+li {
+    background: aliceblue;
+    list-style-type: square;
+}
+
+#target-for-text {
+    background: #212121;
+    color: white;
+}
